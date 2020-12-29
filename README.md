@@ -3,7 +3,7 @@ Add Full Calendar with event display as React Component in your project.
 
 <img src="https://firebasestorage.googleapis.com/v0/b/storeroom-72874.appspot.com/o/images%2Freact-calendar-image.PNG?alt=media&token=07ab03f4-98ca-4d06-b15c-fc5fbd5184be" alt="alt text" width="500px" height="400px">
 
-<a href="https://bhatiagurpreet.github.io/react-calendar/">Click to go to live Demo</a>
+<a href="https://bhatiagurpreet.github.io/event-calendar/">Click to go to live Demo</a>
 <h2>Features</h2>
 
 * Calendar fills the container in which it is added. So to resize the calendar, simply resize the container(modify calendar class in style.css)
@@ -28,4 +28,4 @@ Add Full Calendar with event display as React Component in your project.
 * Import calendar.js and style.css in your script file and render <code>&lt;Calendar>&lt;/Calendar></code>
 
 <h2>To clone the repository run the below command</h2>
-<h3><code> git clone https://github.com/BhatiaGurpreet/react-calendar.git </code><h3>
+<h3><code> git clone https://github.com/BhatiaGurpreet/event-calendar.git </code><h3>
