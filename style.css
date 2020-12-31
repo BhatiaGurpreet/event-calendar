@@ -12,8 +12,8 @@ padding: 30px;
 border-collapse: collapse;
 background-color:white;
 box-shadow: 0 30px 40px 0 rgba(16, 36, 94, 0.2);
+touch-action: manipulation;
 }
-
 thead
 {
 border:20px solid #1e6b65;
