@@ -42,7 +42,7 @@ tbody > tr > td {
 position: relative;
 border: 1px solid #d5d5d5;
 width: auto;
-height: auto;
+height: 20px;
 overflow: hidden;
 }
 
